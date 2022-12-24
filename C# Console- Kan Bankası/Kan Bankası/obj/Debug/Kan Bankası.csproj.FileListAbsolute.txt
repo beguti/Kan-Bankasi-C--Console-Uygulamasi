@@ -1,0 +1,39 @@
+C:\Users\begum\source\repos\Kan Bankası\Kan Bankası\bin\Debug\Kan Bankası.exe.config
+C:\Users\begum\source\repos\Kan Bankası\Kan Bankası\bin\Debug\Kan Bankası.exe
+C:\Users\begum\source\repos\Kan Bankası\Kan Bankası\bin\Debug\Kan Bankası.pdb
+C:\Users\begum\source\repos\Kan Bankası\Kan Bankası\obj\Debug\Kan Bankası.csprojAssemblyReference.cache
+C:\Users\begum\source\repos\Kan Bankası\Kan Bankası\obj\Debug\Kan Bankası.csproj.CoreCompileInputs.cache
+C:\Users\begum\source\repos\Kan Bankası\Kan Bankası\obj\Debug\Kan Bankası.exe
+C:\Users\begum\source\repos\Kan Bankası\Kan Bankası\obj\Debug\Kan Bankası.pdb
+C:\Users\Talha\Desktop\asd\Kan Bankası\Kan Bankası\bin\Debug\Kan Bankası.exe.config
+C:\Users\Talha\Desktop\asd\Kan Bankası\Kan Bankası\bin\Debug\Kan Bankası.exe
+C:\Users\Talha\Desktop\asd\Kan Bankası\Kan Bankası\bin\Debug\Kan Bankası.pdb
+C:\Users\Talha\Desktop\asd\Kan Bankası\Kan Bankası\obj\Debug\Kan Bankası.csprojAssemblyReference.cache
+C:\Users\Talha\Desktop\asd\Kan Bankası\Kan Bankası\obj\Debug\Kan Bankası.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\asd\Kan Bankası\Kan Bankası\obj\Debug\Kan Bankası.exe
+C:\Users\Talha\Desktop\asd\Kan Bankası\Kan Bankası\obj\Debug\Kan Bankası.pdb
+C:\Users\begum\Desktop\Kan Bankası\Kan Bankası\bin\Debug\Kan Bankası.exe
+C:\Users\begum\Desktop\Kan Bankası\Kan Bankası\bin\Debug\Kan Bankası.pdb
+C:\Users\begum\Desktop\Kan Bankası\Kan Bankası\obj\Debug\Kan Bankası.csprojAssemblyReference.cache
+C:\Users\begum\Desktop\Kan Bankası\Kan Bankası\obj\Debug\Kan Bankası.csproj.CoreCompileInputs.cache
+C:\Users\begum\Desktop\Kan Bankası\Kan Bankası\obj\Debug\Kan Bankası.exe
+C:\Users\begum\Desktop\Kan Bankası\Kan Bankası\obj\Debug\Kan Bankası.pdb
+C:\Users\aylin\Desktop\Kan Bankası\Kan Bankası\bin\Debug\Kan Bankası.exe
+C:\Users\aylin\Desktop\Kan Bankası\Kan Bankası\bin\Debug\Kan Bankası.pdb
+C:\Users\aylin\Desktop\Kan Bankası\Kan Bankası\obj\Debug\Kan Bankası.csprojAssemblyReference.cache
+C:\Users\aylin\Desktop\Kan Bankası\Kan Bankası\obj\Debug\Kan Bankası.csproj.CoreCompileInputs.cache
+C:\Users\aylin\Desktop\Kan Bankası\Kan Bankası\obj\Debug\Kan Bankası.exe
+C:\Users\aylin\Desktop\Kan Bankası\Kan Bankası\obj\Debug\Kan Bankası.pdb
+C:\Users\aylin\Desktop\Donanım Final\Kan Bankası\Kan Bankası\bin\Debug\Kan Bankası.exe.config
+C:\Users\aylin\Desktop\Donanım Final\Kan Bankası\Kan Bankası\bin\Debug\Kan Bankası.exe
+C:\Users\aylin\Desktop\Donanım Final\Kan Bankası\Kan Bankası\bin\Debug\Kan Bankası.pdb
+C:\Users\aylin\Desktop\Donanım Final\Kan Bankası\Kan Bankası\obj\Debug\Kan Bankası.csprojAssemblyReference.cache
+C:\Users\aylin\Desktop\Donanım Final\Kan Bankası\Kan Bankası\obj\Debug\Kan Bankası.csproj.CoreCompileInputs.cache
+C:\Users\aylin\Desktop\Donanım Final\Kan Bankası\Kan Bankası\obj\Debug\Kan Bankası.exe
+C:\Users\aylin\Desktop\Donanım Final\Kan Bankası\Kan Bankası\obj\Debug\Kan Bankası.pdb
+C:\Users\begum\Desktop\kanaviçe\Kan Bankası\Kan Bankası\bin\Debug\Kan Bankası.exe
+C:\Users\begum\Desktop\kanaviçe\Kan Bankası\Kan Bankası\bin\Debug\Kan Bankası.pdb
+C:\Users\begum\Desktop\kanaviçe\Kan Bankası\Kan Bankası\obj\Debug\Kan Bankası.csprojAssemblyReference.cache
+C:\Users\begum\Desktop\kanaviçe\Kan Bankası\Kan Bankası\obj\Debug\Kan Bankası.csproj.CoreCompileInputs.cache
+C:\Users\begum\Desktop\kanaviçe\Kan Bankası\Kan Bankası\obj\Debug\Kan Bankası.exe
+C:\Users\begum\Desktop\kanaviçe\Kan Bankası\Kan Bankası\obj\Debug\Kan Bankası.pdb
